@@ -1,0 +1,10 @@
+/* Ce style définit la boîte de modèle pour les éléments "::before" et "::after". */
+::before,
+::after {
+box-sizing: inherit; /* Hérite de la valeur de "box-sizing" du parent.*/
+}
+
+/* Ce style définit la boîte de modèle pour l'élément "html" en utilisant la boîte de modèle "border-box" */
+html {
+box-sizing: border-box ; /* Les dimensions "width" et "height" incluent les bordures et les rembourrages, mais pas les marges.*/
+}
