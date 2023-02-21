@@ -1,0 +1,16 @@
+/* Ce style définit chaque élément de menu "li" en tant qu'élément flexible avec une taille de base de 50 pixels. */
+.menu-item {
+    flex: 1 0 50px;
+  
+    /* Ce style définit le lien de chaque élément de menu "a" avec un remplissage et une couleur spécifiques. */
+    a {
+      padding: 3px 5px; /* Ajoute un remplissage de 3 pixels en haut et en bas et de 5 pixels à gauche et à droite. */
+      color: #555; /* Définit la couleur du texte à #555. */
+    }
+  
+    /* Ce style définit la couleur du texte de chaque élément de menu "a" lorsqu'il est survolé par la souris. */
+    a:hover {
+      color: #0f0; /* Définit la couleur du texte à #0f0 (vert) lorsqu'il est survolé. */
+    }
+  }
+  
