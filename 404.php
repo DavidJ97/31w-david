@@ -1,6 +1,6 @@
 <?php
 /**
-    page dans le cas ou y a un probeleme de chemain
+    Une page dans le cas où il y a un problème de chemin
 */
 get_header() ?>
 <main>
