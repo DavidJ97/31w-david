@@ -6,3 +6,4 @@
 - Créer un thème simple
 - Créer une structure Sass
 - Déployer le site local vers un serveur distant
+- Lien : http://davidjules.com/
